@@ -20,4 +20,12 @@ PMCID: PMC5810423] (https://europepmc.org/article/MED/29437159)
   1. Code folder, contains the python notebooks for the training and testing of all the classifiers
   2. Project Report
   3. Project presentation
+
+
+## Contributors
+
+- [Vossos Charalambos]()
+- [Pappadopoulou Marianna](https://github.com)
+- [Filippidou Marina Thalassini](https://github.com/mar-ina-thal)
+
   
