@@ -24,7 +24,7 @@ PMCID: PMC5810423] (https://europepmc.org/article/MED/29437159)
 
 ## Contributors
 
-- [Vossos Charalambos]()
+- [Vossos Charalambos](https://github.com/cvossos2046)
 - [Pappadopoulou Marianna](https://github.com)
 - [Filippidou Marina Thalassini](https://github.com/mar-ina-thal)
 
