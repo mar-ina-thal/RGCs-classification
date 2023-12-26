@@ -18,4 +18,5 @@ PMCID: PMC5810423.
 ## Contents
   1. Code folder, contains the python notebooks for the training and testing of all the classifiers
   2. Project Report
+  3. Project presentation
   
