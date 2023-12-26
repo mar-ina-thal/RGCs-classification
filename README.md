@@ -12,8 +12,9 @@ included several essential stages, which involved the exploration and preprocess
 of relevant features, the fine-tuning of hyperparameters, and the implementation of classification using
 multiple classifiers.
 
-The data for the analysis were taken from:  Daniszewski M, Senabouth A, Nguyen QH, et al. Single cell RNA sequencing of stem cell-derivedretinal ganglion cells. Scientific Data. 2018 Feb;5:180013. DOI: 10.1038/sdata.2018.13. PMID: 29437159;
-PMCID: PMC5810423.
+The data for the analysis were taken from:  [Daniszewski M, Senabouth A, Nguyen QH, et al. Single cell RNA sequencing of stem cell-derivedretinal ganglion cells. Scientific Data. 2018 Feb;5:180013. DOI: 10.1038/sdata.2018.13. PMID: 29437159;
+PMCID: PMC5810423] (https://europepmc.org/article/MED/29437159)
+
 
 ## Contents
   1. Code folder, contains the python notebooks for the training and testing of all the classifiers
